@@ -13,7 +13,7 @@ This repository provides the Julia code for the perturbation subsampling method 
 
 ## Dependencies
 
-- Julia ≥ 1.8
+- Julia ≥ 1.11.5
 - Required packages: `JLD2`, `Distributions`, `Roots`, `DataFrames`, `Statistics`, `Random`, `Dates`  
   Install them by running:
 
